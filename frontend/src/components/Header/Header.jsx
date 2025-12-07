@@ -5,12 +5,9 @@ const Header = () => {
   return (
     <div className="header">
       <div className="header-contents">
-        <h2>Order your favourite food here</h2>
+        <h2>Skip the Line, Enjoy the Dine.</h2>
         <p>
-          Choose from a diverse menu featuring a detectable array of dishes
-          crafted with the finest ingredients and culinary expertise. Our
-          mission is to satisfy your cravings and elevate your dining
-          experience, one delicious meal at a time.
+         From street flavors to gourmet meals, explore a world of cuisines at your fingertips. Discover new restaurants, enjoy exclusive deals, and satisfy every craving with a personalized food ordering experience.
         </p>
         <button>View Menu</button>
       </div>
